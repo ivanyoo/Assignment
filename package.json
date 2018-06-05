@@ -1,0 +1,22 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Visualize data in a webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanyoo/Assignment.git"
+  },
+  "author": "Paul Ivan Laureano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanyoo/Assignment/issues"
+  },
+  "homepage": "https://github.com/ivanyoo/Assignment#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}

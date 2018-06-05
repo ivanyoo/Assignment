@@ -1,0 +1,9 @@
+{
+  "DB": {
+    "connectionLimit" : "50",
+    "user" : "root",
+    "password" : "4>?x4W8,]#RNCQ;GvhAyGt3vfd(bY~4(",
+    "database" : "assignment",
+    "host" : "localhost"
+  }
+}
